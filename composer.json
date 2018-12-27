@@ -1,0 +1,17 @@
+{
+    "name": "major/logger",
+    "description": "Bu log tutar",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Murat Topuz",
+            "email": "murattopuzresmi@yandex.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "MLogger\\" : "MLogger/"
+        }
+    }
+    
+}
